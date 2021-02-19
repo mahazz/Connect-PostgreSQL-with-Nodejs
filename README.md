@@ -1,11 +1,11 @@
-# connect-vuejs-with-nodejs
+# connect-vuejs-with-nodejs 💎
 
-##Installation
+## Installation
 ```
 npm install pg
 npm install custom-env
 ```
-##Create database.js
+## Create database.js
 ```
 require("custom-env").env(true);
 const { Pool } = require("pg");
@@ -22,7 +22,7 @@ pool.end();
 });
 ```
 
-##Create a .env file in the root and define your variables
+## Create a .env file in the root and define your variables
 ```
 DB_USER=maha
 DB_HOST=localhost
