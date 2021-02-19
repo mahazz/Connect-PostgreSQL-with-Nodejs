@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "custom-env": "^2.0.1",
+    "pg": "^8.5.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
