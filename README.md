@@ -1,4 +1,4 @@
-# connect-vuejs-with-nodejs 💎
+# connect-PostgreSQL-with-nodejs 💎
 
 ## Installation
 ```
